@@ -2,4 +2,4 @@
 
 - file
 
-![pdf 1](jurnal.pdf)
+![pdf 1](jurnal.docx)

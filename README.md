@@ -17,6 +17,7 @@ Teknologi saat ini semakin pesat perkembangannya, di mana teknologi sudah menjad
 PT. Stars Internasional adalah perusahaan yang bergerak pada bidang pembuatan sepatu serta sandal. Produk dijual melalui 400 retail Stars yang ada indonesia. Perusahaan ini berdiri 22 tahun lalu tepatnya pada tahun 2001 di Surabaya. Retail PT. Stars Internasional memiliki kendala dalam proses pencatatan operasional dan transaksi bisnis yang masih menggunakan buku dan alat tulis, Sistem pencatatan yang masih dilakukan secara manual memiliki banyak kelemahan, termasuk kesalahan pencatatan yang sering terjadi, pencarian data yang sulit dan membutuhkan banyak waktu serta tingginya kemungkinan kehilangan buku karena penempatan yang tidak tepat (Suminten, 2023).
 Dengan adanya teknologi, merancang sebuah sistem informasi manajemen dapat membantu proses pencatatan dan pencarian menjadi terotomatisasi dan lebih akurat (Wahyudin & Sinta Bela, 2021). Penelitian ini bertujuan untuk merancang suatu sistem informasi manajemen yang mampu melakukan fungsi pencatatan stok, laporan penjualan harian, operasional, pencarian data penjualan, pemantauan seluruh laporan untuk mengatasi kendala pengoperasiannya masih dilakukan secara manual.
 Dengan menggunakan sistem informasi manajemen, perusahaan akan mendapatkan manfaat dari keefisiensi operasional, keakuratan data, dan dapat mengambil keputusan yang lebih baik (Dewi & Fadlillah, 2021).
+
 2 TINJAUAN PUSTAKA
 
 Sistem informasi manajemen adalah teknik untuk menggabungkan dan membuat informasi yang konsisten, dapat digunakan, dan terorganisir. Selama usaha, program, atau portofolio berlangsung, sebagian besar data akan dikumpulkan. Bagian manajemen perlu mengambil data yang belum diolah untuk menghasilkan informasi dan pemahaman (Emi Sita Eriana & Salman Farizy, 2021).
@@ -24,6 +25,7 @@ Agregasi adalah hubungan dimana satu kelas adalah bagian dari kelas lain, hubung
 UML (Unified Modeling Language) adalah metode permodelan visual yang berfungsi untuk merancang sebuah sistem informasi berbasis orientasi objek atau Object Oriented (Devi Ariella Susanto & Hindriyanto Dwi, 2023).
 Use Case Diagram adalah metode dalam UML untuk memvisualisasikan sebuah hubungan pengguna dengan sistem yang sudah dibangun (Putra et al., 2019).
 Activity Diagram adalah bentuk model visual yang menjelaskan alur aktivitas sebuah sistem bekerja, yang didalamnya juga terdapat fungsi kondisional dan perulangan (Attanggo et al., 2021).
+
 3 METODE PENELITIAN
 
 Metode yang diaplikasikan pada penelitian ini adalah menggunakan metode waterfall. Metode waterfall adalah salah satu dari beberapa model pengembangan sistem, yang dapat dianalogikan seperti layaknya air terjun. Sebuah tingkatan harus diselesaikan terlebih dahulu sebelum lanjut ke tingkatan berikutnya (Muhammad Robith Adani, 2020). Berikut tahapan yang dilakukan dalam penelitian.

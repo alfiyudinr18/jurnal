@@ -3,7 +3,6 @@
 PERANCANGAN SISTEM INFORMASI MANAJEMEN INVENTORY
 PADA RETAIL PT. STARS INTERNASIONAL
 
-<<<<<<< HEAD
 Alfi Yudin Raihan - 221102871, Aris Koharudin - 221102982, Suwandana Suryana Putera - 221102343, Sigit Aprilian - 221102274, Sandri Arya Fikriawan - 221102195
 STMIK Mardira Indonesia, Teknik Informatika
 
@@ -97,6 +96,4 @@ Berikut ini beberapa rekomendasi yang dapat dipertimbangkan untuk pengembangan k
 
 1. Menyatukan sistem informasi manajemen inventory dengan sistem perusahaan lainnya, seperti sistem penjualan atau produksi, data dapat berjalan secara otomatis antara sistem, yang mengurangi kesalahan dan meningkatkan efisiensi operasional.
 2. Perlu menerapkan prosedur keamanan seperti autentikasi pengguna, enkripsi data, dan cadangan data secara teratur. Selain itu, perlu memiliki rencana pemulihan bencana yang mencakup pemulihan data stok dalam keadaan darurat atau kegagalan sistem.
-3. # Mengembangkan aplikasi mobile yang terintegrasi dengan sistem informasi manajemen inventory akan memudahkan karyawan untuk mengakses dan mengelola informasi stok secara langsung dari perangkat seluler mereka.
-   [jurnal.pdf](https://github.com/user-attachments/files/15935649/jurnal.pdf)
-   > > > > > > > b85270ab78eb117e29a34da1095f09be0c6c8398
+3. Mengembangkan aplikasi mobile yang terintegrasi dengan sistem informasi manajemen inventory akan memudahkan karyawan untuk mengakses dan mengelola informasi stok secara langsung dari perangkat seluler mereka.
